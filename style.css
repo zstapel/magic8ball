@@ -1,0 +1,49 @@
+body {
+    background-image: url(img/opening.jpg);
+    background-color: black;
+    
+}
+
+h1 {
+    color: white;
+    font-family: alfarn, sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    font-size: 50pt;
+    margin-left: 30%;
+    margin-top: 23%;
+    padding-bottom: 0px;
+}
+
+h1:hover {
+    color: #123078;
+}
+
+h2 {
+    color: white;
+    font-family: neue-kabel, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30pt;
+    margin-left: 35%;
+    padding-top: 0px;
+    margin-top: -3%;
+}
+
+/* #happy {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    position: fixed;
+    margin-top: -28%;
+    margin-left: -1%;
+    display: none;
+}
+
+#sad {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    position: fixed;
+    margin-top: -28%;
+    margin-left: -1%;
+    display: none;
+} */
