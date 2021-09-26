@@ -19,7 +19,7 @@ h1:hover {
     color: #123078;
 }
 
-h2 {
+#display{
     color: white;
     font-family: neue-kabel, sans-serif;
     font-weight: 400;
@@ -28,6 +28,7 @@ h2 {
     margin-left: 35%;
     padding-top: 0px;
     margin-top: -3%;
+    width: 650px;
 }
 
 /* #happy {
